@@ -4,5 +4,7 @@ public class Test1{
 		System.out.println("JAVA World");
 		System.out.println("YEAH");
 		System.out.println("PROGRAMMING");
+		System.out.println("SMC");
+		System.out.println("20116");
 	}
 }
